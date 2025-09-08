@@ -55,8 +55,8 @@ function Footer() {
         </div>
         <div>
           <div className="font-semibold mb-2">Kontak</div>
-          <p className="text-white/80 text-sm">Email: hello@indonesiajs.com</p>
-          <p className="text-white/80 text-sm">Telepon/WA: +62-8xxx-xxxx</p>
+          <p className="text-white/80 text-sm">Email: info@indonesiajs.com</p>
+          <p className="text-white/80 text-sm">WhatsApp: 6285624675208</p>
         </div>
       </div>
       <div className="border-t border-white/10 py-4 text-center text-xs text-white/60">

@@ -6,6 +6,11 @@ export default function ContactPage() {
         Ingin konsultasi gratis? Kirimkan data Anda, kami akan hubungi dalam 1x24 jam.
       </p>
 
+      <div className="mt-6 rounded-lg border border-white/10 bg-white/5 p-4 text-sm text-white/80">
+        <div>Email: <span className="font-semibold">info@indonesiajs.com</span></div>
+        <div>WhatsApp: <span className="font-semibold">6285624675208</span></div>
+      </div>
+
       <form className="mt-6 grid gap-4">
         <input className="rounded border border-white/10 bg-white/5 px-3 py-2 outline-none" placeholder="Nama" />
         <input className="rounded border border-white/10 bg-white/5 px-3 py-2 outline-none" placeholder="Email" />
